@@ -1,7 +1,7 @@
 ### Eae dev, o café tá pronto? ☕
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iagothz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Iago's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-seven-eosin-57.vercel.app" alt="Iago's GitHub Stats"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iagothz&theme=tokyonight" alt="Iago's GitHub Streak"/>
 </div>
 
